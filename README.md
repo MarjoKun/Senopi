@@ -20,6 +20,7 @@ Android
 - Backend communication to get list of connected devices and available content,
 - Downloading and storing videos,
 - Clearing device from unused content,
+- Application on VR headset works on Kiosk Mode
 
 <h2>My role in the project:</h2>
 
@@ -31,6 +32,8 @@ Android
 - Creating documentation of new features,
 - Diagnosing and resolving issues with existing features,
 - Optimizing memory usage for session with lots of 360 videos,
+- Making new builds,
+- Making application to start again on VR headset whenever application is closed or device restarted (Kiosk Mode)
 - Optimizing scenes and prefabs,
 - Cleaning project from unused assets,
 - Refactoring code,
